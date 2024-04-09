@@ -1,1 +1,2 @@
 # Delhivery-feature-engineering-Project
+🚚 Delhivery Project: Analyzed delivery data to optimize routes, reduce discrepancies in delivery times, and improve service quality. Recommendations include enhancing the OSRM trip planning system, minimizing differences between predicted and actual delivery times, optimizing corridors for high-demand states, conducting customer profiling for targeted engagement, and analyzing traffic and terrain conditions for strategic planning. #DataAnalysis #Logistics #BusinessInsights 📊
